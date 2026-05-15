@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://assets.grok.com/users/d24abcd7-eb04-4a05-b6a5-fe49f90b8b6a/generated/8e45f917-7b50-466f-822a-04acdf71b0cd/image.jpg"/>
-</div>
-
 ### Hola tu 👋
 
 <!--
